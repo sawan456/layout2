@@ -1,0 +1,11 @@
+.btnfilter Button {
+    color: white;
+    background-color: rgb(249, 57, 57);
+    gap: 10px;
+    border-radius: 1px;
+    margin-top:2rem;
+}
+.btnfilter Button:hover{
+    color: rgb(249, 57, 57);
+    background-color: rgb(238, 236, 236);
+}

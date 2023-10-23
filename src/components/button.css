@@ -1,0 +1,19 @@
+.btnLogin Button{
+    color:  red;
+    background:white;
+    text-transform:none;
+    padding:5px 40px;
+    border-radius:2px;
+    box-shadow:none;
+    font-weight:600;
+    height:32px;
+    border: 1px solid red;
+}
+.btnLogin Button:hover{
+    background-color: red;
+    color: white;
+}
+.cart{
+    color: black;
+    cursor: pointer;
+}
